@@ -2,6 +2,13 @@
 
 我是 **BruceChen**，如果你看到我的代码，一定会想：“这是什么鬼？” 别担心，完全正常。我也是这么想的！代码运行时我常常心生敬畏：“它居然真的跑起来了？！”
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chenbuting/chenbuting/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chenbuting/chenbuting/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chenbuting/chenbuting/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 ## 🎩 我的超能力：
 - **编程不迷路**？不，我从不迷路——我总是能在一堆代码中找到新的迷路路线。
 - **调试高手**：每次遇到 Bug，我都会陷入沉思：“这个 Bug 我应该给它起个名字，毕竟它陪我这么久了。”
