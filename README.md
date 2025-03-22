@@ -2,11 +2,13 @@
 
 我是 **BruceChen**，如果你看到我的代码，一定会想：“这是什么鬼？” 别担心，完全正常。我也是这么想的！代码运行时我常常心生敬畏：“它居然真的跑起来了？！”
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chenbuting/chenbuting/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chenbuting/chenbuting/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chenbuting/chenbuting/output/github-contribution-grid-snake.svg">
-</picture>
+![暗色](https://raw.githubusercontent.com/chenbuting/chenbuting/output/github-contribution-grid-snake-dark.svg)
+![亮色](https://raw.githubusercontent.com/chenbuting/chenbuting/output/github-contribution-grid-snake.svg)
+
+作者：王翊珩
+链接：https://juejin.cn/post/7345746216151629862
+来源：稀土掘金
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 
 ## 🎩 我的超能力：
