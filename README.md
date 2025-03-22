@@ -2,8 +2,8 @@
 
 我是 **BruceChen**，如果你看到我的代码，一定会想：“这是什么鬼？” 别担心，完全正常。我也是这么想的！代码运行时我常常心生敬畏：“它居然真的跑起来了？！”
 
-![暗色](https://raw.githubusercontent.com/chenbuting/chenbuting/output/github-contribution-grid-snake-dark.svg)
-![亮色](https://raw.githubusercontent.com/chenbuting/chenbuting/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/chenbuting/chenbuting/output/github-contribution-grid-snake.svg)
+
 
 作者：王翊珩
 链接：https://juejin.cn/post/7345746216151629862
