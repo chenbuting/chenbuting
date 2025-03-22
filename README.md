@@ -5,12 +5,6 @@
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/chenbuting/chenbuting/output/github-contribution-grid-snake.svg)
 
 
-作者：王翊珩
-链接：https://juejin.cn/post/7345746216151629862
-来源：稀土掘金
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
-
-
 ## 🎩 我的超能力：
 - **编程不迷路**？不，我从不迷路——我总是能在一堆代码中找到新的迷路路线。
 - **调试高手**：每次遇到 Bug，我都会陷入沉思：“这个 Bug 我应该给它起个名字，毕竟它陪我这么久了。”
