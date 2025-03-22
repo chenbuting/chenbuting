@@ -3,9 +3,9 @@
 我是 **BruceChen**，如果你看到我的代码，一定会想：“这是什么鬼？” 别担心，完全正常。我也是这么想的！代码运行时我常常心生敬畏：“它居然真的跑起来了？！”
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chenbuting/chenbuting/action/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chenbuting/chenbuting/action/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chenbuting/chenbuting/action/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chenbuting/chenbuting/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chenbuting/chenbuting/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chenbuting/chenbuting/output/github-contribution-grid-snake.svg">
 </picture>
 
 
