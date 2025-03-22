@@ -23,6 +23,6 @@
 - 至于我有没有成功完成项目？我已经把“成功”这个词放在了我的目标清单的“待定”栏。
 
 ## 📬 想和我聊聊？
-- **Email**：[brucechen@example.com](cyu0435@gmail.com)
-- **Snapchat**：[BruceChen](https://www.snapchat.com/add/brucechenx)
-- **Twitter**：[BruceChenTweets](https://x.com/BruceChenfly)
+- **Email**：[cyu0435@gmail.com](cyu0435@gmail.com)
+- **Snapchat**：[brucechen](https://www.snapchat.com/add/brucechenx)
+- **Twitter**：[BruceChenfly](https://x.com/BruceChenfly)
