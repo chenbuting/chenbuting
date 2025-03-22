@@ -31,6 +31,14 @@
 - 会看到我无意间为代码留下的谜题——如果你能解开，记得告诉我，我也想知道答案。
 - 至于我有没有成功完成项目？我已经把“成功”这个词放在了我的目标清单的“待定”栏。
 
+## 技术栈
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,jquery,less,scss,tailwind,react,nextjs,remix,redux,vue,nuxt,pinia,electron,webpack,vite,npm,yarn,pnpm,md,git,github,java,spring,maven,python,flask,express,nodejs,nestjs,prisma,mysql,redis,vercel,docker,linux,vscode,idea,webstorm,pycharm,postman,ps" />
+  </a>
+</p>
+
 ## 📬 想和我聊聊？
 - **Email**：[cyu0435@gmail.com](cyu0435@gmail.com)
 - **Snapchat**：[brucechen](https://www.snapchat.com/add/brucechenx)
