@@ -40,6 +40,7 @@
 </p>
 
 ## 📬 想和我聊聊？
-- **Email**：[cyu0435@gmail.com](cyu0435@gmail.com)
-- **Snapchat**：[brucechen](https://www.snapchat.com/add/brucechenx)
-- **Twitter**：[BruceChenfly](https://x.com/BruceChenfly)
+- **Email**: cyu0435@gmail.com
+- **Snapchat** https://www.snapchat.com/add/brucechenx
+- **QQ**: 3116770795@qq.com
+- ****: 
